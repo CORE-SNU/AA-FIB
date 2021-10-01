@@ -10,7 +10,6 @@ Followings must be installed to run our implementation
 
 - **Python (>=3.7)**
 
-
 Our code is tested on Ubuntu 18.04, with Python 3.7.4
 
 
