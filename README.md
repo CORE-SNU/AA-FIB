@@ -1,7 +1,7 @@
 AA-FIB
 ====================================================
 
-This repository includes an official python implementation of **AA-FIB**, compatible with POMDP problems of .pomdp file format from [POMDP.org][POMDP.org], [APPL][APPL]
+This repository includes an official python implementation of [**AA-FIB**][arxiv], compatible with POMDP problems of .pomdp file format from [POMDP.org][POMDP.org], [APPL][APPL]
 
 ## 1. Requirements
 
@@ -69,5 +69,6 @@ python convert_pomdp.py POMDP_file
 
 To run simulated version of AA-FIB with custon environments, you should get solution of exact version first, and copy them to `./solver_exact` directory.
 
+[arxiv]: https://arxiv.org/abs/2103.15275
 [POMDP.org]: http://pomdp.org/examples/
 [APPL]: https://bigbird.comp.nus.edu.sg/pmwiki/farm/appl/index.php?n=Main.Repository
